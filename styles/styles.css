@@ -1,0 +1,37 @@
+body{
+    font-family: 'Raleway', sans-serif;
+        font-family: 'Roboto', sans-serif;
+}
+.info{
+    background-color: #FFFFFF;
+}
+    
+.signboard{
+    background-color: #2F303A;
+}
+.signboard-title{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+}
+.about-criteria{
+    background-color: #F5F5F5 ;
+}
+.priority{
+    color: #212121;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;   
+}
+.about-priority{
+    color: #757575;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
