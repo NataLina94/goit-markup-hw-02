@@ -1,0 +1,105 @@
+body{
+    font-family: 'Raleway', sans-serif;
+        font-family: 'Roboto', sans-serif;
+}
+.info{
+    background-color: #FFFFFF;    
+}
+.text{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;    
+    color: #2196F3;
+}
+.logo{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;     
+        letter-spacing: 0.03em;    
+        color: #000000;
+}
+.navigation-text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+.navigation-text:hover{  
+      color: #2196F3;
+}
+.navigation-text:focus{
+color: #2196F3;
+}
+.btn{background-color: #2196F3;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;    
+    color: #FFFFFF;
+ 
+}
+
+.about-title1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;    
+    letter-spacing: 0.03em;    
+    color: #2196F3;
+    
+}
+.about-title2{
+    font-style: normal;
+   font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;      
+        letter-spacing: 0.03em;    
+        color: #000000;
+}
+.signboard{
+    background-color: #2F303A;
+}
+.signboard-title{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+}
+.about-criteria{
+    background-color: #F5F5F5 ;
+}
+.priority{
+    color: #212121;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;   
+}
+.about-priority{
+    color: #757575;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.subtitle{
+    color: #212121;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
