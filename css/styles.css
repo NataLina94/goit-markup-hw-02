@@ -1,4 +1,5 @@
-body{
+.body{
+    cursor: pointer;
     font-family: 'Raleway', sans-serif;
         font-family: 'Roboto', sans-serif;
 }
@@ -19,7 +20,7 @@ body{
         font-size: 26px;
         line-height: 31px;     
         letter-spacing: 0.03em;    
-        color: #000000;
+        color: #00000;
 }
 .navigation-text{
     font-style: normal;
@@ -30,24 +31,71 @@ body{
     color: #212121;
 }
 .navigation-text:hover{  
-      color: #2196F3;
+  color: #2196F3;
 }
 .navigation-text:focus{
 color: #2196F3;
 }
-.btn{background-color: #2196F3;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 30px;    
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;    
-    color: #FFFFFF;
- 
-}
 
+
+.btn-text{
+font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #F5F4FA;
+}
+.btn-text:hover{
+background-color: #2196F3;
+color: #FFFFFF;
+}
+ 
+
+.filters{
+    font-family: 'Roboto';
+}
+.filter-1{
+   
+}
+.filter-1:hover,
+.filter-1:focus
+{
+
+}
+.filter-2{
+   
+}
+.filter-2:hover,
+.filter-2:focus
+{
+
+}
+.filter-3{
+   
+}
+.filter-3:hover{
+
+
+}
+.filter-4{
+    
+
+}
+.filter-4:hover{
+
+}
+.filter-5{
+  
+
+}
+.filter-5:hover{
+
+}
 .about-title1{
     font-style: normal;
     font-weight: 700;
