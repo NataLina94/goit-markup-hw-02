@@ -1,26 +1,35 @@
-.body{
-    cursor: pointer;
-    font-family: 'Raleway', sans-serif;
-        font-family: 'Roboto', sans-serif;
+body{
+
+    cursor: pointer;  
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    list-style: none;
+    
+}
+.list{
+    list-style: none;
 }
 .info{
     background-color: #FFFFFF;    
 }
 .text{
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0.03em;    
-    color: #2196F3;
-}
-.logo{
-    font-style: normal;
+    font-family: 'Raleway';
+        font-style: normal;
         font-weight: 700;
         font-size: 26px;
-        line-height: 31px;     
+        line-height: 31px; 
         letter-spacing: 0.03em;    
-        color: #00000;
+        color: #2196F3;
+}
+.logo{
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: #000;
+        
 }
 .navigation-text{
     font-style: normal;
@@ -150,4 +159,29 @@ color: #FFFFFF;
     line-height: 42px;
     text-align: center;
     letter-spacing: 0.03em;
+}
+.container{
+background-color: #2F303A;
+}
+.container-text{
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;      
+        letter-spacing: 0.03em;    
+        color: #FFFFFF;
+}
+.container-text:hover,
+.container-text:focus{
+color: #2196F3;
+}
+.logo1{
+font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;  
+    letter-spacing: 0.03em;
+ color: #FFFFFF;   
 }
