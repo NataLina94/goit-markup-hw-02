@@ -6,11 +6,15 @@ body{
     list-style: none;
     
 }
+
 .list{
     list-style: none;
 }
 .info{
-    background-color: #FFFFFF;    
+    
+    background-color: #FFFFFF; 
+    
+ 
 }
 .text{
     font-family: 'Raleway';
@@ -29,20 +33,44 @@ body{
         line-height: 31px;
         letter-spacing: 0.03em;
         color: #000;
-        
+        text-decoration: none;
 }
-.navigation-text{
+.list1,.list2,.list3,.list4,.list5
+{
+    text-decoration: none;
+    list-style-type: none;
+}
+.navigation-text1,
+.navigation-text2,
+.navigation-text
+{
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
     color: #212121;
+    text-decoration: none;
+    
 }
-.navigation-text:hover{  
-  color: #2196F3;
+.navigation-text1,
+.navigation-text2,
+.navigation-text:hover
+{
+        color: #2196F3;
+
+    }
+.navigation-text1,
+.navigation-text2,
+.navigation-text:focus
+{
+ color: #2196F3; 
+
 }
-.navigation-text:focus{
+.navigation-text1:link:current{
+color: #2196F3;
+}
+.navigation-text2:link:current{
 color: #2196F3;
 }
 
