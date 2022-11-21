@@ -47,7 +47,7 @@ body{
 .logo-text2{
     color: #FFFFFF;
 }
-.list1,.list2,.list3,.list4,.list5
+.list-buttons,.list-images,.list-priority,.list-pictures,.list-foto
 {
     text-decoration: none;
     list-style-type: none;
@@ -164,9 +164,7 @@ color: #FFFFFF;
     font-size: 44px;
     line-height: 60px;
 }
-.about-criteria{
-    background-color: var(--main-background);
-}
+
 .priority{
     color: #212121;
     font-style: normal;
@@ -191,6 +189,7 @@ color: #FFFFFF;
     line-height: 42px;
     text-align: center;
     letter-spacing: 0.03em;
+    background-color: #F5F4FA;
 }
 .container{
 background-color: #2F303A;
